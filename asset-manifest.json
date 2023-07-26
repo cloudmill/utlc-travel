@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.108f9938.css",
+    "main.js": "/static/js/main.5f72694e.js",
+    "static/media/HalvarBreit-Bd.woff": "/static/media/HalvarBreit-Bd.45d7dd7796296c64809b.woff",
+    "static/media/HalvarBreit-Bd.woff2": "/static/media/HalvarBreit-Bd.38ec3a8c4d3edb1fa265.woff2",
+    "static/media/Manrope-Bold.woff": "/static/media/Manrope-Bold.023bec2e090afa5e2a26.woff",
+    "static/media/Manrope-Light.woff": "/static/media/Manrope-Light.b81d7c9c905f8c37a983.woff",
+    "static/media/Manrope-SemiBold.woff": "/static/media/Manrope-SemiBold.bb0140cdca4248c15d29.woff",
+    "static/media/Manrope-Regular.woff": "/static/media/Manrope-Regular.6dfae683ad1786623966.woff",
+    "static/media/Manrope-Medium.woff": "/static/media/Manrope-Medium.7e45ee3fd31247bf62ce.woff",
+    "static/media/Manrope-ExtraBold.woff": "/static/media/Manrope-ExtraBold.70d18fd1845c83e01384.woff",
+    "static/media/Manrope-ExtraLight.woff": "/static/media/Manrope-ExtraLight.957ce87abfbe54c9ca9e.woff",
+    "static/media/Manrope-Bold.woff2": "/static/media/Manrope-Bold.605094119c2d1fcb33bd.woff2",
+    "static/media/Manrope-Light.woff2": "/static/media/Manrope-Light.33681269e277715e22ba.woff2",
+    "static/media/Manrope-SemiBold.woff2": "/static/media/Manrope-SemiBold.eefa7b8f3ff53c709620.woff2",
+    "static/media/Manrope-Regular.woff2": "/static/media/Manrope-Regular.0c6074fb6bb3bbf185e7.woff2",
+    "static/media/Manrope-Medium.woff2": "/static/media/Manrope-Medium.ad0351f493ddba65a1b5.woff2",
+    "static/media/Manrope-ExtraBold.woff2": "/static/media/Manrope-ExtraBold.32f02c60ac127064d4d6.woff2",
+    "static/media/Manrope-ExtraLight.woff2": "/static/media/Manrope-ExtraLight.64f29c7ffd8d4fecd837.woff2",
+    "index.html": "/index.html",
+    "main.108f9938.css.map": "/static/css/main.108f9938.css.map",
+    "main.5f72694e.js.map": "/static/js/main.5f72694e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.108f9938.css",
+    "static/js/main.5f72694e.js"
+  ]
+}
