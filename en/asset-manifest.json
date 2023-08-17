@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/en/static/css/main.5d748955.css",
+    "main.js": "/en/static/js/main.1e4da2d1.js",
+    "static/media/HalvarBreit-Bd.woff": "/en/static/media/HalvarBreit-Bd.45d7dd7796296c64809b.woff",
+    "static/media/HalvarBreit-Bd.woff2": "/en/static/media/HalvarBreit-Bd.38ec3a8c4d3edb1fa265.woff2",
+    "static/media/Manrope-Bold.woff": "/en/static/media/Manrope-Bold.023bec2e090afa5e2a26.woff",
+    "static/media/Manrope-Light.woff": "/en/static/media/Manrope-Light.b81d7c9c905f8c37a983.woff",
+    "static/media/Manrope-SemiBold.woff": "/en/static/media/Manrope-SemiBold.bb0140cdca4248c15d29.woff",
+    "static/media/Manrope-Regular.woff": "/en/static/media/Manrope-Regular.6dfae683ad1786623966.woff",
+    "static/media/Manrope-Medium.woff": "/en/static/media/Manrope-Medium.7e45ee3fd31247bf62ce.woff",
+    "static/media/Manrope-ExtraBold.woff": "/en/static/media/Manrope-ExtraBold.70d18fd1845c83e01384.woff",
+    "static/media/Manrope-ExtraLight.woff": "/en/static/media/Manrope-ExtraLight.957ce87abfbe54c9ca9e.woff",
+    "static/media/Manrope-Bold.woff2": "/en/static/media/Manrope-Bold.605094119c2d1fcb33bd.woff2",
+    "static/media/Manrope-Light.woff2": "/en/static/media/Manrope-Light.33681269e277715e22ba.woff2",
+    "static/media/Manrope-SemiBold.woff2": "/en/static/media/Manrope-SemiBold.eefa7b8f3ff53c709620.woff2",
+    "static/media/Manrope-Regular.woff2": "/en/static/media/Manrope-Regular.0c6074fb6bb3bbf185e7.woff2",
+    "static/media/Manrope-Medium.woff2": "/en/static/media/Manrope-Medium.ad0351f493ddba65a1b5.woff2",
+    "static/media/Manrope-ExtraBold.woff2": "/en/static/media/Manrope-ExtraBold.32f02c60ac127064d4d6.woff2",
+    "static/media/Manrope-ExtraLight.woff2": "/en/static/media/Manrope-ExtraLight.64f29c7ffd8d4fecd837.woff2",
+    "index.html": "/en/index.html",
+    "main.5d748955.css.map": "/en/static/css/main.5d748955.css.map",
+    "main.1e4da2d1.js.map": "/en/static/js/main.1e4da2d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d748955.css",
+    "static/js/main.1e4da2d1.js"
+  ]
+}

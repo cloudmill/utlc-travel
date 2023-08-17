@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/cn/static/css/main.b104c29b.css",
+    "main.js": "/cn/static/js/main.bc32e971.js",
+    "static/media/HalvarBreit-Bd.woff": "/cn/static/media/HalvarBreit-Bd.45d7dd7796296c64809b.woff",
+    "static/media/HalvarBreit-Bd.woff2": "/cn/static/media/HalvarBreit-Bd.38ec3a8c4d3edb1fa265.woff2",
+    "static/media/Manrope-Bold.woff": "/cn/static/media/Manrope-Bold.023bec2e090afa5e2a26.woff",
+    "static/media/Manrope-Light.woff": "/cn/static/media/Manrope-Light.b81d7c9c905f8c37a983.woff",
+    "static/media/Manrope-SemiBold.woff": "/cn/static/media/Manrope-SemiBold.bb0140cdca4248c15d29.woff",
+    "static/media/Manrope-Regular.woff": "/cn/static/media/Manrope-Regular.6dfae683ad1786623966.woff",
+    "static/media/Manrope-Medium.woff": "/cn/static/media/Manrope-Medium.7e45ee3fd31247bf62ce.woff",
+    "static/media/Manrope-ExtraBold.woff": "/cn/static/media/Manrope-ExtraBold.70d18fd1845c83e01384.woff",
+    "static/media/Manrope-ExtraLight.woff": "/cn/static/media/Manrope-ExtraLight.957ce87abfbe54c9ca9e.woff",
+    "static/media/Manrope-Bold.woff2": "/cn/static/media/Manrope-Bold.605094119c2d1fcb33bd.woff2",
+    "static/media/Manrope-Light.woff2": "/cn/static/media/Manrope-Light.33681269e277715e22ba.woff2",
+    "static/media/Manrope-SemiBold.woff2": "/cn/static/media/Manrope-SemiBold.eefa7b8f3ff53c709620.woff2",
+    "static/media/Manrope-Regular.woff2": "/cn/static/media/Manrope-Regular.0c6074fb6bb3bbf185e7.woff2",
+    "static/media/Manrope-Medium.woff2": "/cn/static/media/Manrope-Medium.ad0351f493ddba65a1b5.woff2",
+    "static/media/Manrope-ExtraBold.woff2": "/cn/static/media/Manrope-ExtraBold.32f02c60ac127064d4d6.woff2",
+    "static/media/Manrope-ExtraLight.woff2": "/cn/static/media/Manrope-ExtraLight.64f29c7ffd8d4fecd837.woff2",
+    "index.html": "/cn/index.html",
+    "main.b104c29b.css.map": "/cn/static/css/main.b104c29b.css.map",
+    "main.bc32e971.js.map": "/cn/static/js/main.bc32e971.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b104c29b.css",
+    "static/js/main.bc32e971.js"
+  ]
+}
